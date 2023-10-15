@@ -21,7 +21,7 @@ Esse desafio foi proposto pelo Felipe Aguiar (Tech Educator, DIO), durante o Boo
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
- ## Calculadora de partidas Rankeadas
+ ## Calculadora de Partidas Rankeadas
 **O Que deve ser utilizado**
 
 ### Objetivo:
@@ -40,7 +40,7 @@ Ao final deve se exibir uma mensagem:
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
-## Escrevendo as classes de um Jogo
+## Escrevendo as Classes de um Jogo
 
 ### Objetivo:
 * Criar uma classe genérica que represente um herói de aventura e que possua as seguintes propriedades:
