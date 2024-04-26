@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\bin\Debug\net6.0\csharp.exe
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\bin\Debug\net6.0\csharp.deps.json
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\bin\Debug\net6.0\csharp.dll
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\bin\Debug\net6.0\csharp.pdb
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\csharp.dll
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\refint\csharp.dll
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\csharp.pdb
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
+C:\Users\nicol\Documents\dio-desafios\dio-escrevendo-classes-jogo\csharp\obj\Debug\net6.0\ref\csharp.dll

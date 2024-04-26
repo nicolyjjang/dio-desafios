@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\dio-calculadora-partidas-rankeadas.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\dio-calculadora-partidas-rankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\dio-calculadora-partidas-rankeadas.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\dio-calculadora-partidas-rankeadas.AssemblyInfo.cs
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\dio-calculadora-partidas-rankeadas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\bin\Debug\net6.0\dio-calculadora-partidas-rankeadas.exe
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\bin\Debug\net6.0\dio-calculadora-partidas-rankeadas.deps.json
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\bin\Debug\net6.0\dio-calculadora-partidas-rankeadas.runtimeconfig.json
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\bin\Debug\net6.0\dio-calculadora-partidas-rankeadas.dll
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\bin\Debug\net6.0\dio-calculadora-partidas-rankeadas.pdb
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\dio-calculadora-partidas-rankeadas.dll
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\refint\dio-calculadora-partidas-rankeadas.dll
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\dio-calculadora-partidas-rankeadas.pdb
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\dio-calculadora-partidas-rankeadas.genruntimeconfig.cache
+C:\Users\nicol\Documents\dio-desafios\dio-calculadora-partidas-rankeadas\csharp\obj\Debug\net6.0\ref\dio-calculadora-partidas-rankeadas.dll
